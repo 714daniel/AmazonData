@@ -5,9 +5,6 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.nio.file.Path;
 import java.util.Scanner;
-i
-
-import distance.DistanceGetter;
 
 public class New {
 	public static void main(String[] args) throws FileNotFoundException {
